@@ -1,0 +1,25 @@
+{
+  "name": "jellyhead-js-footer",
+  "version": "0.1.0",
+  "description": "This is a test please dont use it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSloth13/jellyhead-js-footer.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Thomas Nelson <jellyheadM@outlook.com> (https://www.npmjs.com/~jellyheadmade)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSloth13/jellyhead-js-footer/issues"
+  },
+  "homepage": "https://github.com/MrSloth13/jellyhead-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
